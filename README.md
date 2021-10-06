@@ -1,3 +1,4 @@
 # test_github
 test github
-hello git
+hello github
+lets me learn to use
